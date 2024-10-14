@@ -13,7 +13,7 @@
     - [GitHub secrets](#github-secrets)
 
 
-## Overview
+## Overviews
 
 This is the repository for the frontend code of the IE Bank web app
 
